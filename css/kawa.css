@@ -1,0 +1,45 @@
+.navbar-home {
+    background-color: #350d06;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.navbar-home .navbar-nav>li>a {
+    color: #c84032; 
+}
+
+.carousel-content {
+    height: 600px;
+
+}
+
+.jumbotron {
+	text-align: center;
+	padding-top: 150px;
+
+}
+
+.kawa {
+	height: 80px;
+	width: 250px;
+	padding-left: 20px;
+}
+
+ul {
+	padding-top: 15px;
+	color: 
+}
+
+.icon {
+	text-align: right;
+}
+
+.footer {
+	margin-top: 3rem;
+	background-color: #350d06;
+	color: white;
+	padding-bottom: 1px;
+	padding-top: 8px; 
+}
